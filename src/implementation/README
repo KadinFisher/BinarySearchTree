@@ -1,0 +1,4 @@
+BinarySearchTree is the primary Class for implementation of the data structure.
+Callback is a functional interface to be used in order to process nodes of the BinarySearchTree whenever implemented.
+KeyValuePair is a simple implementation of a key attached to a value (Similar to the concept of Maps with only a single inputted key-value pair).
+Both Exception classes are basic exceptions used within multiple methods of the BinarySearchTree Class.
